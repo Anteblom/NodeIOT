@@ -1,0 +1,23 @@
+{
+  "name": "nodeiot",
+  "version": "1.0.0",
+  "description": "Small Node application reading and storing mqtt data in MongoDb",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "NodeIOT"
+  },
+  "keywords": [
+    "Node",
+    "MQTT",
+    "MONGODB"
+  ],
+  "author": "Andreas Blom",
+  "license": "ISC",
+  "dependencies": {
+    "mqtt": "^1.10.0"
+  }
+}
